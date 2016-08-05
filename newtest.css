@@ -1,0 +1,25 @@
+.main-container{
+	border: 1px solid black;
+	max-width: 1024px;
+	margin: auto;
+	position: relative;
+	height: 700px;
+}
+.div1{
+	float: left;
+	background-color: yellow;
+	height: 200px;
+	width: 500px;
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+}
+.div2{
+	float: right;
+	background-color: green;
+	height: 200px;
+	width: 500px;
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+}
